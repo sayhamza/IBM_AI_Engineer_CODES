@@ -15,7 +15,7 @@ This repository serves as a comprehensive collection of documentation and resour
 - ✅ [05. Building Deep Learning Models with TensorFlow]
 - ✅ [06. AI Capstone Project with Deep Learning]
 
-  ✨✨Click on each course to view the relevant information and certificates!✨✨
+  
 
 ## 🛠️ Tools
 The following tools were used to complete this certification: 
